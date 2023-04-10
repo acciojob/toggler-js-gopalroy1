@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.g1{
+	display:flex;
+	background-color: gray;
+	width:76px;
+	height:32px;
+	color:gray;
+	border-radius:40px;
+	margin:5px 0px;
+}
+#good{
+	background-color: white;
+	position: relative;
+	right:19px;
+	color:white;
+	background-color:white;
+	border-radius:50px;
+	width:35px;
+}
+#good:active{
+	left:20px;
+}
